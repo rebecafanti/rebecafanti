@@ -3,7 +3,7 @@ Me chamo Rebeca, sou formada no ensino médio integrado ao técnico em tecnologi
 Tenho buscado realizar cursos e projetos para me especializar cada vez mais.
 
 
-# Tecnologias que estou estudando 📗
+# 📗Tecnologias que estou estudando 
 <div style="display: inline_block">
 <img aling="center" heigth="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
 <img aling="center" heigth="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
@@ -21,8 +21,7 @@ Tenho buscado realizar cursos e projetos para me especializar cada vez mais.
 <img height="180cm" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rebecafanti&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF">
 </div>
 
-## Conecte-se comigo 📲
-Convido você a se conectar comigo nas redes!
+## 📲Conecte-se comigo 
 <div style="display: inline_block">
   
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BxjxmedJRRryBX5bgEA3vGQ%3D%3D)
