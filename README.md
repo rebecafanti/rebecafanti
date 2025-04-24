@@ -1,6 +1,6 @@
 ## Olá 👋 
-Me chamo Rebeca, sou formada no ensino médio integrado ao técnico em tecnologia da informação e atualmente estou no 3° semestre do curso de Análise e Desenvolvimento de Sistemas!
-Tenho buscado realizar cursos e projetos para me especializar cada vez mais.
+Me chamo Rebeca, sou desenvolvedora SAP Business One, onde lido frequentemente com C#, SQL Server e HANA todos os dias. Sou formada no técnico em tecnologia da informação, graduada em Análise e Desenvolvimento de Sistemas e tualmente estou cursando Engenharia de Software!
+Tenho buscado realizar cursos e projetos para aprimorar minha lógica, raciocínio e meus conhecimentos.
 
 
 # 📗Tecnologias que estou estudando 
